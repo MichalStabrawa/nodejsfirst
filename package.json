@@ -1,0 +1,22 @@
+{
+  "name": "nodejsfirst",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalStabrawa/nodejsfirst.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalStabrawa/nodejsfirst/issues"
+  },
+  "homepage": "https://github.com/MichalStabrawa/nodejsfirst#readme",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
